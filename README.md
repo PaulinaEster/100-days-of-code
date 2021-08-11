@@ -1,19 +1,18 @@
-# Welcome! 
+# Desafio dos 100 dias!
 
-## Here you can learn the rules, get answers to your questions by reading the FAQ, and find out more about the community that’s growing around the challenge.
+## Em busca criação de bons hábitos e práticas na programação, vamos codar todos os dias!
 
-### Two Main Rules
-- Code minimum an hour every day for the next 100 days.
-- Tweet your progress every day with the #100DaysOfCode hashtag.
-### Publicly commit to the challenge:
-If you made the decision to commit to the challenge, Click here to tweet it to the world, making yourself accountable and taking your resolve to the next level!
+*Hey, Devs e Devas*!!
+No intuito de formar e fortalecer nosso grupo de estudos, os TecnoCrias, iremos iniciar a jornada em busca de desáfios diários pelos próximos 100 dias. #100DiasDeCodigo #100DaysOfCode #TecnoCrias
+### O nosso challenge será guiado pelos seguintes tópicos: 
+ 
+## Semanas 1 - 2
+- Desafios para praticar HTML e os comandos mais utilizados no GitHub.
+### Semana 3
+- Desafios para relembrar e fixar o uso do CSS, juntamente com alguns elementos de semântica.
+### Semana 4 -5
+Desafios para praticar trabalhar conceitos do Javascript moderno e manipulação do DOM.
 
-## Next Steps
-If you’ve decided to join, here are the steps you need to go through:
-
-** Tweet to commit to the challenge! **
-`Read the original article`: Join the #100DaysOfCode <https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/>
-
-- Plan: Formulate what you want to work on during the challenge. It might be - learning a framework, or starting a journey of learning to code, or improving your skill level with a particular technology or a programming language. Don’t spend too much time planning, but having a plan like this will help you on your path.
-- From today on, for the next 100 days, tweet your progress every day using the #100DaysOfCode hashtag.
+### Semana 6 - 7
+- Desafios para praticar a utilização dos frameworks Bootstrap, React.Js, Node.Js e lógica intermediária.
 
